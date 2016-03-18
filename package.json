@@ -1,0 +1,36 @@
+{
+  "name": "webservice",
+  "version": "0.1.1",
+  "description": "Web service to get last trade value and time from Yahoo API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waynecheah/manulife.git"
+  },
+  "dependencies": {
+    "ftp-get": "^0.3.1",
+    "restify": "^4.0.3"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.25",
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.2.1",
+    "gulp-nodemon": "^2.0.2",
+    "gulp-sourcemaps": "^1.5.1"
+  },
+  "keywords": [
+    "trade",
+    "nasdap",
+    "yahoo",
+    "financial"
+  ],
+  "author": "Wayne Cheah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waynecheah/manulife/issues"
+  },
+  "homepage": "https://github.com/waynecheah/manulife#readme"
+}
